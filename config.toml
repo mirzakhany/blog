@@ -1,4 +1,4 @@
-baseURL = "https://mirzakhani.me/"
+baseURL = "https://mirzakhani.me"
 languageCode = "en-us"
 title = "Mirzakhani.me"
 theme = ["base", "hyde-hyde"] 
