@@ -1,0 +1,6 @@
+name = "base"
+description = "Base theme"
+
+[author]
+    name = "mohsen mirzakhani"
+    homepage = "https://mirzakhani.me"

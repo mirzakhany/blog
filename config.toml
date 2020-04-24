@@ -1,4 +1,55 @@
 baseURL = "https://mirzakhani.me/"
 languageCode = "en-us"
-title = "Mohsen Mirzakhani"
-theme = "hyde-hyde"
+title = "Mirzakhani.me"
+theme = ["base", "hyde-hyde"] 
+
+enableRobotsTXT = true
+enableEmoji = true
+
+summarylength = 30
+
+paginate = 7
+
+[params]
+    author = "Mohsen Mirzakhani"
+    title = "Mohsen's Blog"
+    description = "Software Developer and DevOps"
+    mainSections = ["posts"]
+
+    # sidebar, copyright & license
+    copyright = "Mirzakhani"
+    since = 2019
+    license = "CC BY-SA 4.0"
+    licenseURL = "https://creativecommons.org/licenses/by-sa/4.0"
+    showBuiltWith = false
+
+    # https://highlightjs.org
+    highlightjs = true
+    highlightjsstyle = "github"
+
+[permalinks]
+    posts = "/:slug/"
+    vn = "/:slug/"
+
+[params.social]
+	twitter = "mirzakhani_mo"
+	github = "mirzakhany"
+    gravatar = "mohsenmirzakhany@gmail.com"
+    linkedin = "mirzakhany"
+
+## Main Menu
+[[menu.main]]
+    name = "Posts"
+    weight = 100
+    identifier = "posts"
+    url = "/posts/"
+[[menu.main]]
+    name = "Resume"
+    identifier = "resume"
+    weight = 200
+    url = "/resume/"
+[[menu.main]]
+    name = "About"
+    identifier = "about"
+    weight = 300
+    url = "/about/"
