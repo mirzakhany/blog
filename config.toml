@@ -1,0 +1,4 @@
+baseURL = "https://mirzakhani.me/"
+languageCode = "en-us"
+title = "Mohsen Mirzakhani"
+theme = "hyde-hyde"
