@@ -13,7 +13,7 @@ paginate = 7
 [params]
     author = "Mohsen Mirzakhani"
     title = "Mohsen's Blog"
-    description = "Software Developer and DevOps"
+    description = "Software developer and DevOps specialist."
     mainSections = ["posts"]
 
     # sidebar, copyright & license
