@@ -53,8 +53,8 @@ paginate = 7
     identifier = "resume"
     weight = 200
     url = "/resume/"
-[[menu.main]]
-    name = "About"
-    identifier = "about"
-    weight = 300
-    url = "/about/"
+##[[menu.main]]
+##    name = "About"
+##    identifier = "about"
+##    weight = 300
+##    url = "/about/"

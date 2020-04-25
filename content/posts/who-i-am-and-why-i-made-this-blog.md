@@ -1,7 +1,8 @@
 ---
-title: "Who I Am and Why I Made This Blog"
+title: "Who I am and why I made this blog"
 date: 2020-04-24T15:35:18+02:00
 draft: false
+showReadingTime: true
 tags:
   - introduction
 categories:

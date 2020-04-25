@@ -4,7 +4,9 @@
     {{ if not .Date.IsZero }}
       <i class="fas fa-calendar-alt"></i> {{ .Date.Format (.Site.Params.dateformat | default "Jan 02, 2006") }}
     {{ end }}
+    {{ if .Params.showReadingTime | default true }}
     <i class="fas fa-clock"></i> {{ .ReadingTime }} min read
+    {{ end }}
     <!-- categories -->
     {{ with .Params.categories }}
       {{ $total := len . }}
