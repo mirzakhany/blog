@@ -9,15 +9,14 @@ categories:
   - uncategorized
 ---
 
-My name is mohsen, I’m a software developer and DevOps. most of the time and for my daily projects I'm using Golang or python as a programming language.
+I am Mohsen and this is why I started my blog  
 
+My name is mohsen. I am originally from Iran and currently living in Stockholm, Sweden. I’m a software and DevOps engineer.  
 
-On DevOps side I used docker swarm, Kubernetes, and docker-compose and I’m happy with helm to manage my Kubernetes applications.
+Most of the time and for my daily projects, I’m using Golang or python as a programming language.
+On the DevOps side, I work with docker swarm, Kubernetes, and docker-compose. I’m happy to use helm for managing my Kubernetes applications.  
 
+I made this blog to share my experiences with anyone who may be interested in these domains. I hope that this blog can help others to improve their skills. Please feel free to contact me if you have any questions or feedback.  
 
-I made this blog to share my experiences with anyone who may like these things and I hope that this blog can help someone else.
-please email me if you have any questions or feedback.
-
-Best
-
+Best regards  
 Mohsen Mirzakhani
