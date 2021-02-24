@@ -37,7 +37,6 @@ paginate = 7
     vn = "/:slug/"
 
 [params.social]
-	twitter = "mirzakhani_mo"
 	github = "mirzakhany"
     gravatar = "mohsenmirzakhany@gmail.com"
     linkedin = "mirzakhany"

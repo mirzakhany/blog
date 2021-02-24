@@ -62,7 +62,7 @@ ClickYab is a Smart advertising network by targeting audiences with contextual a
 In Chartel we worked on we designed a restful API to sell an airplane ticket. we used Flask framework to do this project. As a backend developer i was responsible for Implementation of handlers for contract with iranian banks web services for online payments, web crawlers to collect data from web , and many more tools with python.  
 
 
-**Softwer Developer**  
+**Software Developer**  
 *Sana-group Apr 2013 - Jan 2016 . 2yr 10 mos - Isfahan Province*  
 
 In Sana, we worked on various projects that come from our customers. As backend developer and team lead, I was responsible for designing software architecture and coaching the team to hit goals on time. Created development plans and project documentation, and test cases.We used Django for most of our projects with PostgreSQL.  
