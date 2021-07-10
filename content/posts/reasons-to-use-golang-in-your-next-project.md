@@ -10,7 +10,7 @@ categories:
   - programming
 ---
 
-![6 reasons why you should use Golang in your next project](/img/golang-header.png)
+![6 reasons why you should use Golang in your next project](/img/golang-header.webp)
 
 The Go programming language is currently one of the fastest growing languages in the software industry. With great speed, simplicity, and reliability, it has become the perfect choice for seemingly every developer out there. 
 
