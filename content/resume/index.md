@@ -29,11 +29,15 @@ Skills
 Experience
 --------
 
+**Backend developer, Consultant** *part-time*  
+*VOI, Dec 2020 - Present - Stockholm, Sweden*  
+
+Dicopay is an app for all small business owners who want faster payment for their assignments and easier to bill directly on their mobile. My Responsibility as a Backen developer was to work with the team to deliver new features and as DevOps to manage our Kubernetes cluster and setup required to build pipelines. 
+
 **Senior Backend developer**  
 *DYNAMO Consulting AB, Oct 2019 - Present - Stockholm, Sweden*  
 
 In Dynamo We build mobile applications for big and soon-to-be-big companies. Our team contributes with mobile expertise from strategy and design to frontend and backend software development. As a backend developer I'm responsible for designing new application backend from the data model to implementation. I also work for other companies a consultant.
-
 
 **Backend developer, DevOps Consultant** *part-time*  
 *Dicopay, Oct 2019 - Mar 2020 - Stockholm, Sweden*  
@@ -55,15 +59,3 @@ I work for Karansew on a project called Ostadkar. Ostadkar is similar to Thumbta
 *ClickYab, Jun 2017 - May 2018 . 1yr - Tehran Province*  
 
 ClickYab is a Smart advertising network by targeting audiences with contextual and behavioral advertising. We worked on an RTB (Real-time binding) project. As a senior backend developer, I was responsible for the design and implementation of Restful API, a payment system that handles wallet and bank gateways and a messaging queue to send a high number of SMS.our stack in Clickyab was MySQL , Golang and Python.  
-
-**Backend Developer**  
-*Chartel Feb 2016 - May 2017 . 1yr 4 mos - Isfahan Province*  
-
-In Chartel we worked on we designed a restful API to sell an airplane ticket. we used Flask framework to do this project. As a backend developer i was responsible for Implementation of handlers for contract with iranian banks web services for online payments, web crawlers to collect data from web , and many more tools with python.  
-
-
-**Software Developer**  
-*Sana-group Apr 2013 - Jan 2016 . 2yr 10 mos - Isfahan Province*  
-
-In Sana, we worked on various projects that come from our customers. As backend developer and team lead, I was responsible for designing software architecture and coaching the team to hit goals on time. Created development plans and project documentation, and test cases.We used Django for most of our projects with PostgreSQL.  
-
