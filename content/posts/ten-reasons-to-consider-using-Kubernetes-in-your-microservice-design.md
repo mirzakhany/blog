@@ -11,6 +11,10 @@ categories:
   - microservice
 ---
 
+Kubernetes is a highly popular and widely-used open-source container orchestration platform, known for its ability to automate the deployment, scaling, and management of containerized applications. It is used by many organizations around the world to help manage and operate their containerized workloads at scale.
+
+There is consider using Kubernetes in your microservice design:
+
 1. Improved efficiency: Kubernetes can help you automate the deployment, scaling, and management of your microservices, which can improve the efficiency of your development and operations teams.
 
 2. Improved reliability: By using Kubernetes, you can set up self-healing mechanisms for your microservices, which can improve their reliability.
