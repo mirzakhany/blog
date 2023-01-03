@@ -6,56 +6,34 @@ showReadingTime: false
 ---
 
 About
---------  
 
-Efficient, reliable and highly motivated developer with over 6 years of building well-structured software and services with the ability to build strong relationship bonds, great attitude when it comes to being worked with a team, passionate about learning new technologies and make things easier.
+---
 
-Skills
---------
+As a highly efficient and reliable developer with over ten years of experience building well-structured software and services, I have a strong ability to form positive relationships and work effectively within a team. I have a great attitude and am passionate about learning new technologies and finding ways to streamline processes.
 
-| Programming       | DevOps       | Database      | Other                |
-|-------------------|--------------|---------------|----------------------|
-| Python            | Kubernetes   | PostgreSQL    | Graylog              |
-| Golang            | Docker       | MongoDB       | RestAPI              |
-| Django & DRF      | Linux Server | ElasticSearch | GRPC                 |
-| FLASK             | Prometheus   | Redis         | GraphQL              |
-| UnitTest & Pytest | Gitlab-CI    |               | Swagger              |
-| AsyncIO           | CircleCI     |               | MicroService         |
-| Celery            | Grafana      |               | Domain Driven Design |
-|                   | KeyCloak     |               | Agile, Scrum         |
-|                   | GKE          |               |                      |
-|                   | AWS          |               |                      |
+## Experience
 
-Experience
---------
+**Senior Back End Developer**
+_Voi Technology Dec 2020 - Present - Stockholm, Sweden_
 
-**Backend developer, Consultant**
-*VOI, Dec 2020 - Present - Stockholm, Sweden*  
+As a backend developer and DevOps engineer on the Dicopay team, my responsibilities included working with the team to deliver new features and managing our Kubernetes cluster to set up the pipelines required for building the app. Dicopay is a mobile app that helps small business owners streamline their billing and payment processes, making it easier and faster to get paid for their assignments.
 
-Dicopay is an app for all small business owners who want faster payment for their assignments and easier to bill directly on their mobile. My Responsibility as a Backen developer was to work with the team to deliver new features and as DevOps to manage our Kubernetes cluster and setup required to build pipelines. 
+**Senior Backend Developer**  
+_DYNAMO Consulting AB, Oct 2019 - Jan 2022 - Stockholm, Sweden_
 
-**Backend developer**  
-*DYNAMO Consulting AB, Oct 2019 - Present - Stockholm, Sweden*  
+At Dynamo, we specialize in building mobile applications for established and growing companies. In my role as a consultant, I have had the opportunity to work with clients such as Dicopay and VOI.
 
-In Dynamo We build mobile applications for big and soon-to-be-big companies. Our team contributes with mobile expertise from strategy and design to frontend and backend software development. As a backend developer I'm responsible for designing new application backend from the data model to implementation. I also work for other companies a consultant.
+**Back End Developer, DevOps** _Contract_  
+_Dicopay, Oct 2019 - Nov 2020 - Stockholm, Sweden_
 
-**Backend developer, DevOps Consultant** *part-time*  
-*Dicopay, Oct 2019 - Mar 2020 - Stockholm, Sweden*  
-
-Dicopay is an app for all small business owners who want faster payment for their assignments and easier to bill directly on their mobile. My Responsibility as a Backen developer was to work with the team to deliver new features and as DevOps to manage our Kubernetes cluster and setup required to build pipelines. 
-
+As a backend developer and DevOps engineer on the Dicopay team, my responsibilities included working with the team to deliver new features and managing our Kubernetes cluster to set up the pipelines required for building the app. Dicopay is a mobile app that helps small business owners streamline their billing and payment processes, making it easier and faster to get paid for their assignments.
 
 **Backend developer, Technical Lead**  
-*SnapTrip, Jan 2019 - Sep 2019 . 9 mos - Tehran Province*  
+_SnapTrip, Jan 2019 - Sep 2019 - Tehran Province_
 
-in Snapptrip we provide hotel and airplane ticket booking online for registered users that they use our services every day. as a technical lead and backend developer, I started my job at snapptrip to redesign the architecture of our international flight ticket selling system based on DDD and microservice pattern.  
+As a technical lead and backend developer at Snapptrip, I was responsible for redesigning the architecture of our international flight ticket selling system using Domain-Driven Design (DDD) and the microservice pattern. Snapptrip is an online platform for booking hotels and airplane tickets that is used by users on a daily basis.
 
 **Backend developer**  
-*Ostadkar.pro, Jun 2018 - Jan 2019 . 8 mos - Tehran Province*  
+_Ostadkar.pro, Jun 2018 - Jan 2019 - Tehran Province_
 
-I work for Karansew on a project called Ostadkar. Ostadkar is similar to Thumbtack service. As a senior backend developer, I have developed and maintained Ostadkar by using Python, Node JS and, Golang from the beginning. I am also responsible for developing backend microservices. In our project, we have more than 600 unit tests for testing our codes. Software development methodology in Karansew is Scrum. We have more than 700,000 customers and 60,000 local providers.
-
-**Backend Developer**  
-*ClickYab, Jun 2017 - May 2018 . 1yr - Tehran Province*  
-
-ClickYab is a Smart advertising network by targeting audiences with contextual and behavioral advertising. We worked on an RTB (Real-time binding) project. As a senior backend developer, I was responsible for the design and implementation of Restful API, a payment system that handles wallet and bank gateways and a messaging queue to send a high number of SMS.our stack in Clickyab was MySQL , Golang and Python.  
+The Ostadkar is similar to the Thumbtack service. I was part of the development team we developed using Python, Node JS and, Golang from the beginning. I was responsible for developing backend microservices in Golang.
