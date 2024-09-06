@@ -1,0 +1,106 @@
+baseURL: "https://mirzakhani.me/"
+languageCode: "en-us"
+title: "Mirzakhani.me"
+theme:
+  - "PaperMod"
+
+enableRobotsTXT: true
+enableEmoji: true
+
+homeCollectionTitle: 'Posts'
+homeCollection: 'posts'
+
+summarylength: 30
+
+# Hugo Configure Markup
+# More info: https://gohugo.io/getting-started/configuration-markup#
+markup:
+  highlight:
+    guessSyntax: true
+    style: emacs
+  tableOfContents:
+    endLevel: 3
+    ordered: false
+    startLevel: 2
+  # needed to render raw HTML (e.g. <sub>, <sup>, <kbd>, <mark>)
+  goldmark:
+    renderer:
+      unsafe: true
+
+paginate: 7
+
+taxonomies:
+  category: "categories"
+  series: "series"
+  tag: "tags"
+
+params:
+  # author: "Mohsen Mirzakhani"
+  title: "Mohsen's Blog"
+  description: "Software Engineer"
+
+  DateFormat: "January 2, 2006"
+  defaultTheme: light
+  disableThemeToggle: true
+  ShowReadingTime: false
+  ShowPostNavLinks: true
+  ShowBreadCrumbs: false
+  ShowCodeCopyButtons: false
+  ShowWordCount: true
+  ShowRssButtonInSectionTermList: true
+  UseHugoToc: true
+  disableSpecial1stPost: false
+  disableScrollToTop: false
+  comments: false
+  hidemeta: false
+  hideSummary: false
+  showtoc: false
+  tocopen: false
+
+  # home-info mode
+  homeInfoParams:
+    Title: "Hi there \U0001F44B"
+    Content: "Welcome to My Blog: A Journey Through Fatherhood, Software Development, Open Source, DIY Electronics"
+
+
+  socialIcons:
+    - name: linkedin
+      url: "https://www.linkedin.com/in/mirzakhany/"
+    - name: github
+      url: "https://github.com/mirzakhany"
+    - name: slack
+      url: "https://gophers.slack.com/team/U0369GRU430"
+
+
+permalinks:
+  posts: "/:slug/"
+  vn: "/:slug/"
+
+social:
+  github: "https://github.com/mirzakhany"
+  linkedin: "https://www.linkedin.com/in/mirzakhany/"
+  
+
+menu:
+  main:
+    - identifier: categories
+      name: Categories
+      url: /categories/
+      weight: 10
+    - identifier: projects
+      name: Projects
+      url: /projects/
+      weight: 20
+    - name: Search
+      url: search/
+      weight: 30 
+    - identifier: about
+      name: About
+      url: /about/
+      weight: 40  
+
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON # for search index
