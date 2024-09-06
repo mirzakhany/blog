@@ -20,11 +20,10 @@ Chapar is an upcoming native API testing tool built with GoLang, designed to sim
 <a href="https://chapar.rest"><strong>Website</strong></a> ·
 <a href="https://gophers.slack.com/messages/chapar"><strong>Slack</strong></a>
 
-
--------------------
-
 #### State of the project
 Chapar is currently in the early beta phase and under active development, with regular updates and improvements planned to enhance the user experience and functionality.
+
+-------------------
 
 ### DBCTL - Database Container Management Tool
 DBCTL is a tool designed to make running a database in a Docker container easy and fast. It offers the following features and more:
