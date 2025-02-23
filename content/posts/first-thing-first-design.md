@@ -1,6 +1,6 @@
 ---
 title: "First things first: Design before you code"
-date: 2025-02-23T06:44:00+00:00
+date: 2025-02-23T06:44:00+02:00
 draft: false
 showReadingTime: true
 tags:
@@ -10,6 +10,9 @@ tags:
 categories:
   - development
 ---
+
+<img src="/images/design-before-you-code.jpg" alt="Design before you code" style="width: 100%; height: auto;">
+
 
 Why design first? why not just jump into code and start writing it? I remember one of those old good days when I was learning to code a 
 8051 microcontroller in assembly language, I attended a lab session where there was a task to write a clock program. I ran to a issue 
