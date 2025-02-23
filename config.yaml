@@ -4,6 +4,10 @@ title: "Mirzakhani.me"
 theme:
   - "PaperMod"
 
+services:
+  googleAnalytics:
+    id: G-DEE5NR2P7E
+
 enableRobotsTXT: true
 enableEmoji: true
 
